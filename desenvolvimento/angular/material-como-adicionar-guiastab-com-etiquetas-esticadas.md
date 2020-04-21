@@ -7,4 +7,5 @@
   <mat-tab label="Third"> Content 3 </mat-tab>
 </mat-tab-group>
 ```
-![](./../../assets/img/00002.png)
+
+![](https://raw.githubusercontent.com/anderson-gregorio/kb/master/assets/img/00002.png)

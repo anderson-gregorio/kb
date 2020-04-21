@@ -8,4 +8,4 @@
     Your tab content goes here
 </mat-tab>
 ```
-![](./../../assets/img/00001.png)
+![](https://raw.githubusercontent.com/anderson-gregorio/kb/master/assets/img/00001.png)
